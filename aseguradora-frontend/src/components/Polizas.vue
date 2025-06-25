@@ -2,7 +2,6 @@
   <div class="p-8">
     <h1 class="text-2xl font-bold mb-4">Pólizas</h1>
 
-    <!-- Buscador de póliza -->
     <div class="mb-6 flex gap-2 items-center">
       <input
         v-model="busqueda"
